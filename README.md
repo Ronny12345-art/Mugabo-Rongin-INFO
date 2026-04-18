@@ -6,7 +6,7 @@ A powerful cybersecurity tool developed for ethical hacking, penetration testing
 
 ## 👤 Developer – Ronny Rogers
 
-![Ronny Rogers – Cybersecurity Specialist](https://raw.githubusercontent.com/Ronny12345-art/ronny-rogers/refs/heads/main/ronny-rogers.png)
+![Ronny Rogers – Cybersecurity Specialist](https://github.com/Ronny12345-art/ronny-rogers/blob/main/mugabo-rongin-cybersecurity.png)
 
 **Ronny Rogers**  
 Cybersecurity Specialist • Developer • Pentester • Ethical Hacker  
